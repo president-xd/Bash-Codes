@@ -1,2 +1,2 @@
-# Exercism-Codes
+# Bash-Codes
 Soft Bash scripting codes
